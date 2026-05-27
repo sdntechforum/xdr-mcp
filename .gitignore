@@ -3,3 +3,7 @@ build/
 .env
 *.log
 .DS_Store
+
+# Local-only docs (offline reference copies of public DevNet specs/PDFs)
+.local-docs/
+docs/*.pdf
